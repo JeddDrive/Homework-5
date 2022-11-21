@@ -18,11 +18,12 @@ namespace JeddoreLab2
         }
 
         /* Name: Nicholas Jeddore
-        * Date: October 2, 2022
+        * Date: November 21, 2022
         * Description: This program is lab 2 in this course. Essentially there are two groupboxes that do
         * two different things. The left groupbox does a simple calculation with integers and displays it. The
         right groupbox can show a picture and data about the topic of the picture which is my dog, and 
-        lastly there is an exit button in this right groupbox. */
+        lastly there is an exit button in this right groupbox. This program has since been updated for Intro
+        to Dev Tools - Homework #5. */
         private void btnExit_Click(object sender, EventArgs e)
         {
             //close the form
@@ -48,8 +49,8 @@ namespace JeddoreLab2
         private void btnReset_Click(object sender, EventArgs e)
         {
             //blank out the two textboxes and one label in the left groupbox
-            txtNumber.ResetText();
-            txtMultiplier.ResetText();
+            txtNumber.Clear();
+            txtMultiplier.Clear();
             lblAnswer.ResetText();
 
             //put focus on the top textbox
@@ -59,8 +60,8 @@ namespace JeddoreLab2
         private void btnData_Click(object sender, EventArgs e)
         {
             //declare string with concatenation to put in the data label
-            string jasperData = "My topic is on Jasper, who is our family dog.\n\n" +
-                "He is a 3 year old chocolate labrador.\n\n" +
+            string jasperData = "This text has been updated for Dev Tools - Homework #5!\n\n" +
+                "Jasper is a 3 year old chocolate labrador.\n\n" +
                 "His favourite activities are walking, swimming, and playing tug of war.\n\n" +
                 "His favourite human food are honey dip and plain flavoured Timbits from Tim Hortons.";
 
@@ -77,7 +78,7 @@ namespace JeddoreLab2
         private void picImage_Click(object sender, EventArgs e)
         {
             //display messagebox with some info and name in title
-            MessageBox.Show("This picture of Jasper was taken by me this past summer while outdoors.", "Nicholas Jeddore");
+            MessageBox.Show("This program has been updated as of November 21, 2022 for Intro to Dev Tools - Homework #5.", "Nicholas Jeddore");
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)

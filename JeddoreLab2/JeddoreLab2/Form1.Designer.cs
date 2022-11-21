@@ -229,6 +229,7 @@
             this.AcceptButton = this.btnPicture;
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.PapayaWhip;
             this.CancelButton = this.btnReset;
             this.ClientSize = new System.Drawing.Size(717, 323);
             this.Controls.Add(this.groupBox2);
