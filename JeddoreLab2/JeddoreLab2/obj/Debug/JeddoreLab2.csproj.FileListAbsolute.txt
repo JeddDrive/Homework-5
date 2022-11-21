@@ -1,0 +1,11 @@
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\bin\Debug\JeddoreLab2.exe.config
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\bin\Debug\JeddoreLab2.exe
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\bin\Debug\JeddoreLab2.pdb
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.csproj.AssemblyReference.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.Form1.resources
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.Properties.Resources.resources
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.csproj.GenerateResource.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.csproj.CoreCompileInputs.cache
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.exe
+C:\Users\nickj\Documents\1 - NBCC Files (IT-PA 2022)\Term 1\Intro to Programming\Projects\JeddoreLab2\JeddoreLab2\obj\Debug\JeddoreLab2.pdb
